@@ -29,8 +29,8 @@ I design and build decentralized applications that combine real-world utility wi
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bossonormal1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibukun-o-a9453a232/)
 [![Farcaster](https://img.shields.io/badge/Farcaster-7D4AE7?style=for-the-badge)](https://warpcast.com/bossonormal)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bossonormal)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://lendhub.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adonormal)
+<!-- [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://lendhub.xyz) -->
 
 ---
 
