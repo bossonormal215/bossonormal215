@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **bossonormal215/bossonormal215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋, I’m @bossonormal215
 
-I'm a Web3 developer and founder, currently building **NFTLendHub** — a peer-to-peer, non-custodial NFT lending protocol on Monad. I work across Ethereum, TON, Fogo, and other L1s, pushing DeFi, NFT infra, and ecosystem standards forward.
+I'm a Web3 developer and founder, currently building **LendHub** — a peer-to-peer, non-custodial NFT lending protocol on Monad. I work across Ethereum, TON, Fogo, and other L1s, pushing DeFi, NFT infra, and ecosystem standards forward.
 
 ## 🔗 Connect with me
 
