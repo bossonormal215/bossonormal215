@@ -41,12 +41,13 @@ I design and build decentralized applications that combine real-world utility wi
 - **[MineMint](https://t.me/minemintapp)** — Telegram mini app that gamifies NFT mining, tasks, and community rewards (TON-based)  
 - **Cross-Chain Tipping App** — Powered by Wormhole SDK to enable tips across Ethereum ↔ Monad  
 - **Onchain Tamagotchi (Crazy Contract)** — 120+ KB bytecode game on Monad with achievements, SVG rendering, and revive mechanics  
+- **[VelixoMarket](https://velixo.io)** - NFT marketplace and launchpad on svm
 
 ---
 
 ## 🧱 Tech Stack
 
-`Solidity` · `Hardhat` · `Foundry` · `TypeScript` · `Next.js` · `Tailwind CSS` · `Wagmi` · `Viem` · `Thirdweb` · `MySQL` · `Alchemy` · `Envio` · `Magic Eden API` · `Pyth Oracle` · `Wormhole` · `Privy`
+`Solidity` · `Hardhat` .  `Anchor` · `Foundry` · `TypeScript` · `Next.js` · `Tailwind CSS` · `Wagmi` · `Viem` · `Thirdweb` · `MySQL` · `Alchemy` · `Envio` · `Magic Eden API` · `Pyth Oracle` · `Wormhole` · `Privy`
 
 ---
 
